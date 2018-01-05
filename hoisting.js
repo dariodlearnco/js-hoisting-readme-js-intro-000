@@ -10,23 +10,23 @@ function callMe() {
 
 
 function crazy() {
-  // fix the code in here:
+    // fix the code in here:
 
-  var thisIsCrazy = function (){
+    var thisIsCrazy = function (){
     console.log("hey!!!")
-  }
-  thisIsCrazy();
+    }
+    thisIsCrazy();
 }
 
 function sayMyName() {
-  // fix the code in here:
-  var name = "Cricky";
+    // fix the code in here:
+    var name = "Cricky";
 
-  sayMy();
+    sayMy();
 
-  function sayMy() {
+    function sayMy() {
     name = "Kristin";
     console.log(name);
     var name;
-  }
+    }
 }
